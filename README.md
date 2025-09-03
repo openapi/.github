@@ -1,4 +1,4 @@
-# ⚙️ .github
+# 🌐 .github
 
 Public meta-repo of the **Openapi GitHub Organization**  
 This is where we manage profile settings, community guidelines, and shared assets across our open-source projects.
