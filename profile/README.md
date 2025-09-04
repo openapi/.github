@@ -3,7 +3,8 @@
     <br />
     <br />
     <b>Openapi is the Largest Certified API Marketplace.<br />
-    We empower businesses to accelerate digital transformation, simplify operations, and innovate faster through our APIs.</b>
+    We empower businesses to accelerate digital transformation, simplify operations,<br />
+    and innovate faster through our APIs.</b>
 </p>
 
 <h2>Learn About Us 🧑‍🎓</h2>
