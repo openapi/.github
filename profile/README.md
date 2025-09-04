@@ -12,7 +12,7 @@
 <ul>
     <li>Learn how to build with openapi through the <a href="https://console.openapi.com/">openapi docs</a> 📚 </li>
     <li>Find tutorials and blogs on openapi's services at the <a href="https://openapi.com/blog">openapi blog</a> 📝</li>
-    <li>View our livestreams and video content at the <a href="https://www.youtube.com/@OpenapiGlobal">openapi YouTube channel</a> 📺</li>
+    <li>View our livestreams and video content at the <a href="https://www.youtube.com/@OpenapiGlobal">openapi youtube channel</a> 📺</li>
     <li>Discover our community-made projects at the <a href="https://openapi.com/customer-stories">customer stories board</a> 💻</li>
 </ul>
 
@@ -21,7 +21,7 @@
 
 <h2>Connect With Us 🫂</h2>
 <ul>
-    <li>Star 🌟 the <a href="https://github.com/openapi/openapi/stargazers">main openapi repo</a> 🖥️</li>
+    <li>Follow 🌟 the <a href="https://github.com/openapi/openapi/stargazers">main openapi repo</a> 🖥️</li>
     <li>Join our <a href="https://openapi.io/discord?r=orgrepo">Discord community</a> 👨‍👩‍👧‍👦</li>
     <li>Follow us on <a href="https://x.com/openapi">X</a> 🐤</li>
     <li>Apply to openapi through the <a href="https://openapi.io/company/careers">openapi Careers page (We're HIRING!)</a> 🧑‍💻</li>
