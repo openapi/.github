@@ -1,9 +1,8 @@
-<br />
 <p align="center">
     <a href="https://openapi.com" target="_blank"><img src="/profile/images/openapi-header-a1.png" alt="Openapi Banner"></a>
     <br />
     <br />
-    <b>openapi is a backend platform for developing Web, Mobile, and Flutter applications. Built with the open source community and optimized for developer experience in the coding languages you love.</b>
+    <b>Openapi is the Largest Certified API Marketplace. We empower businesses to accelerate digital transformation, simplify operations, and innovate faster through our APIs.</b>
 </p>
 
 <h2>Learn About Us 🧑‍🎓</h2>
