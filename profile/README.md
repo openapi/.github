@@ -2,16 +2,17 @@
     <a href="https://openapi.com" target="_blank"><img src="/profile/images/openapi-header-a1.png" alt="Openapi Banner"></a>
     <br />
     <br />
-    <b>Openapi is the Largest Certified API Marketplace. We empower businesses to accelerate digital transformation, simplify operations, and innovate faster through our APIs.</b>
+    <b>Openapi is the Largest Certified API Marketplace.<br />
+    We empower businesses to accelerate digital transformation, simplify operations, and innovate faster through our APIs.</b>
 </p>
 
 <h2>Learn About Us 🧑‍🎓</h2>
 
 <ul>
-    <li>Learn how to build with openapi through the <a href="https://openapi.io/docs">openapi Docs</a> 📚 </li>
-    <li>Find tutorials and blogs on openapi's services at the <a href="https://openapi.io/blog">openapi blog</a> 📝</li>
-    <li>View our livestreams and video content at the <a href="https://youtube.com/c/openapi">openapi YouTube channel</a> 📺</li>
-    <li>Discover our community-made projects at the <a href="https://github.com/openapi/awesome-openapi">Awesome openapi repo</a> and the <a href="https://builtwith.openapi.io/">Built With openapi website</a> 💻</li>
+    <li>Learn how to build with openapi through the <a href="https://console.openapi.com/">openapi Docs</a> 📚 </li>
+    <li>Find tutorials and blogs on openapi's services at the <a href="https://openapi.com/blog">openapi blog</a> 📝</li>
+    <li>View our livestreams and video content at the <a href="https://www.youtube.com/@OpenapiGlobal">openapi YouTube channel</a> 📺</li>
+    <li>Discover our community-made projects at the <a href="https://openapi.com/customer-stories">customer stories board</a> 💻</li>
 </ul>
 
 <br />
