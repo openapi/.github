@@ -12,7 +12,7 @@
 <ul>
     <li>Learn how to build with openapi through the <a href="https://console.openapi.com/">openapi docs</a> 📚 </li>
     <li>Find tutorials and blogs on openapi's services at the <a href="https://openapi.com/blog">openapi blog</a> 📝</li>
-    <li>View our livestreams and video content at the <a href="https://www.youtube.com/@OpenapiGlobal">openapi youtube channel</a> 📺</li>
+    <li>View our livestreams and video content at the <a href="https://www.youtube.com/@Openapi-com">openapi youtube channel</a> 📺</li>
     <li>Discover our community-made projects at the <a href="https://openapi.com/customer-stories">customer stories board</a> 💻</li>
 </ul>
 
