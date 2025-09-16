@@ -17,7 +17,7 @@
 </ul>
 
 <br />
-<a href="https://github.com/openapi/openapi"><img height=auto src="https://raw.githubusercontent.com/openapi/openapi/master/public/images/github.png" alt="Visit the openapi repo"></a>
+<a href="https://console.openapi.com"><img height=auto src="/profile/images/openapi-console-a2.png" alt="Visit the Openapi Console"></a>
 
 <h2>Connect With Us 🫂</h2>
 <ul>
