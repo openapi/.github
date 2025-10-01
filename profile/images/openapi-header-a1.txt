@@ -1,0 +1,15 @@
+Image Description Sheet
+-----------------------
+
+File Name: openapi-header-a1.png
+Format: PNG
+Dimensions: 845 x 249 pixels
+
+Short Description:
+A banner image featuring the word "Openapi" and the claim "API Made Simple" on the left, Shades in the background,
+and tech thing on the right.
+
+Purpose:
+This image is intended to be used as a header/banner for organization landing page.
+It visually associates elegant flavor to the Openapi environment,
+giving a professional and modern look to the projects page.
