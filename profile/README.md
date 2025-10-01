@@ -21,8 +21,11 @@
 
 <h2>Connect With Us 🫂</h2>
 <ul>
-    <li>Follow 🌟 the <a href="https://github.com/openapi/openapi/stargazers">main openapi repo</a> 🖥️</li>
-    <li>Join our <a href="https://openapi.io/discord?r=orgrepo">Discord community</a> 👨‍👩‍👧‍👦</li>
-    <li>Follow us on <a href="https://x.com/openapi">X</a> 🐤</li>
-    <li>Apply to openapi through the <a href="https://openapi.io/company/careers">openapi Careers page (We're HIRING!)</a> 🧑‍💻</li>
+    <li>Connect with us on <a href="https://openapi.com/contact-us">customer care</a> 💼</li>
+    <li>
+        Follow us on: 
+            <a href="https://www.instagram.com/openapi_com">Instagram</a>,
+            <a href="https://www.linkedin.com/company/openapi-com">LinkedIn</a> or
+            <a href="https://www.facebook.com/openapicom">Facebook</a>
+    </li> 
 </ul>
