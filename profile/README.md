@@ -17,6 +17,7 @@
 </ul>
 
 <br />
+
 <a href="https://console.openapi.com"><img height=auto src="/profile/images/openapi-console-a2.png" alt="Visit the Openapi Console"></a>
 
 <h2>Connect With Us 🫂</h2>
