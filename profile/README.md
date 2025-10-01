@@ -21,7 +21,7 @@
 
 <h2>Connect With Us 🫂</h2>
 <ul>
-    <li>Connect with us on <a href="https://openapi.com/contact-us">customer care</a> 💼</li>
+    <li>Get in touch with our <a href="https://openapi.com/contact-us">customer care</a> 💼</li>
     <li>
         Follow us on: 
             <a href="https://www.instagram.com/openapi_com">Instagram</a>,
