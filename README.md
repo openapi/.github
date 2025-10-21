@@ -5,7 +5,7 @@ This is where we manage profile settings, community guidelines, and shared asset
 
 ## 👥 Credits
 Maintainer: Francesco Bianco  
-Owner: OpenAPI S.p.A.
+Owner: Openapi S.p.A.
 
 ---
 
