@@ -1,0 +1,13 @@
+Image Description Sheet
+-----------------------
+
+File Name: openapi-console-a2.png
+Format: PNG
+Dimensions: 845 x 424 pixels
+
+Short Description:
+A screenshot of the Openapi Console interface, showcasing its user-friendly design and features.
+
+Purpose:
+This image is intended to be used as a visual representation of the Openapi Console tool.
+It highlights the interface and usability of the console, making it appealing for users looking for API management solutions.
