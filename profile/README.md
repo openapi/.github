@@ -10,7 +10,7 @@
     <a href="https://www.linuxfoundation.org/about/members" title="Linux Foundation Member"><img height=auto src="https://img.shields.io/badge/Linux%20Foundation-Silver%20Member-003778?logo=linux-foundation&logoColor=white" alt="Linux Foundation Member"></a>
 </p>
 
-<h2>Learn About Us 🧑‍🎓</h2>
+<h2>🚀 Learn about us</h2>
 
 <ul>
     <li>Learn how to build with openapi through the <a href="https://console.openapi.com/">openapi docs</a> 📚 </li>
@@ -23,7 +23,7 @@
 
 <a href="https://console.openapi.com"><img height=auto src="/profile/images/openapi-console-a2.png" alt="Visit the Openapi Console"></a>
 
-<h2>Connect With Us 🫂</h2>
+<h2>💬 Connect with us</h2>
 <ul>
     <li>Get in touch with our <a href="https://openapi.com/contact-us">customer care</a> 💼</li>
     <li>
