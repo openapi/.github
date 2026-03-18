@@ -5,6 +5,9 @@
     <b>Openapi is the Largest Certified API Marketplace.<br />
     We empower businesses to accelerate digital transformation, simplify operations,<br />
     and innovate faster through our APIs.</b>
+    <br><br>
+    <i>We believe in open source and proudly support</i><br>
+    <a href="https://www.linuxfoundation.org/about/members" title="Linux Foundation Member"><img height=auto src="https://img.shields.io/badge/Linux%20Foundation-Silver%20Member-003778?logo=linux-foundation&logoColor=white" alt="Linux Foundation Member"></a>
 </p>
 
 <h2>Learn About Us 🧑‍🎓</h2>
