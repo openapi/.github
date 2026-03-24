@@ -13,10 +13,10 @@
 <h2>🚀 Learn about us</h2>
 
 <ul>
-    <li>Learn how to build with openapi through the <a href="https://console.openapi.com/">openapi docs</a> 📚 </li>
-    <li>Find tutorials and blogs on openapi's services at the <a href="https://openapi.com/blog">openapi blog</a> 📝</li>
-    <li>View our livestreams and video content at the <a href="https://www.youtube.com/@Openapi-com">openapi youtube channel</a> 📺</li>
-    <li>Discover our community-made projects at the <a href="https://openapi.com/customer-stories">customer stories board</a> 💻</li>
+    <li>Learn how to build with openapi through the <a href="https://console.openapi.com/">openapi docs</a></li>
+    <li>Find tutorials and blogs on openapi's services at the <a href="https://openapi.com/blog">openapi blog</a></li>
+    <li>View our livestreams and video content at the <a href="https://www.youtube.com/@Openapi-com">openapi youtube channel</a></li>
+    <li>Discover our community-made projects at the <a href="https://openapi.com/customer-stories">customer stories board</a></li>
 </ul>
 
 <br />
@@ -25,7 +25,7 @@
 
 <h2>💬 Connect with us</h2>
 <ul>
-    <li>Get in touch with our <a href="https://openapi.com/contact-us">customer care</a> 💼</li>
+    <li>Get in touch with our <a href="https://openapi.com/contact-us">customer care</a></li>
     <li>
         Follow us on: 
             <a href="https://www.instagram.com/openapi_com">Instagram</a>,
